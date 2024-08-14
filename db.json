@@ -1,3 +1,4 @@
+{
   "portfolios": [
     {
       "id": 1,
@@ -10,3 +11,4 @@
       "image_url": "http://example.com/image2.jpg"
     }
   ]
+}
