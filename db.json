@@ -1,17 +1,12 @@
-{
-      {
-        "id": 1,
-        "couple_names": "Emily & David",
-        "image_url": "http://example.com/image1.jpg"
-      },
-      {
-        "id": 2,
-        "couple_names": "Sarah & Mike",
-        "image_url": "http://example.com/image2.jpg"
-      },
-      {
-        "id": 2,
-        "couple_names": "Jane & John",
-        "image_url": "http://example.com/image2.jpg"
-      }
-}
+  "portfolios": [
+    {
+      "id": 1,
+      "couple_names": "Alice & Bob",
+      "image_url": "http://example.com/image1.jpg"
+    },
+    {
+      "id": 2,
+      "couple_names": "Charlie & Dana",
+      "image_url": "http://example.com/image2.jpg"
+    }
+  ]
