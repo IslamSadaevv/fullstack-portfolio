@@ -2,13 +2,18 @@
   "portfolios": [
     {
       "id": 1,
-      "couple_names": "Alice & Bob",
-      "image_url": "http://example.com/image1.jpg"
+      "couple_names": "John & Jane",
+      "image_url": "assets/wedding1.jpg"
     },
     {
       "id": 2,
-      "couple_names": "Charlie & Dana",
-      "image_url": "http://example.com/image2.jpg"
+      "couple_names": "David & Emily",
+      "image_url": "assets/wedding2.jpg"
+    },
+    {
+      "id": 3,
+      "couple_names": "Mike & Sarah",
+      "image_url": "assets/wedding3.jpg"
     }
   ]
 }
